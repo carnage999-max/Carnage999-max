@@ -1,35 +1,75 @@
+# Hi there, I'm Ezekiel Okebule 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezekiel-okebule) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ezekiel11011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamesezekiel039@gmail.com) 
+## 🚀 Backend Engineer | Payment Systems Expert | Python/Django Specialist
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Carnage999-max&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Carnage999-max&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carnage999-max&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building scalable APIs and payment solutions that power businesses across Africa and beyond.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Carnage999-max&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔥 What I Do
+- **Payment Integration** - Built systems processing $100K+ in transactions with 99.9% reliability
+- **API Architecture** - Designed RESTful APIs serving 2,000+ users with <200ms response times  
+- **Real-time Systems** - Implemented WebSocket connections supporting 1,000+ concurrent users
+- **Database Optimization** - Improved query performance by 35+ through strategic optimization
+
+### 💼 Currently Working On
+- 🏗️ **Courier-as-a-Service Platform** - Logistics backend connecting vendors, couriers, and customers
+- 🎯 **Learning**: Advanced system design, microservices architecture, and AWS cloud services
+- 📝 **Writing**: Technical articles about Django best practices and payment system integration
+
+### 🛠️ Tech Stack
+
+**Backend & APIs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat&logo=celery&logoColor=white)
+
+**Frontend & Tools**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### 🏆 Featured Projects
+
+#### 🎓 [Student-Pay Platform](https://github.com/carnage999-max/student-pay)
+University payment management system processing fees for 2,000+ students
+- **Tech**: Django REST Framework, Next.js, PostgreSQL, Redis
+- **Features**: Multi-gateway payments, admin dashboard, automated reconciliation
+- **Impact**: 80% reduction in manual processing time, 99.9% payment reliability
+- **Live Demo**: [student-pay.sevalla.app](https://student-pay.sevalla.app)
+
+#### 📊 [CSV Processing API](https://github.com/carnage999-max/file-splitter-api)
+Microservice for handling large CSV file operations with background processing
+- **Tech**: Django REST Framework, Celery, Supabase Storage
+- **Features**: File splitting, compression, automated cleanup, AI-assisted processing
+
+#### ✅ [Task Management API](https://github.com/carnage999-max/task-mgt-api)
+Comprehensive task scheduling system with multi-channel notifications
+- **Tech**: Django REST Framework, Celery, Redis, Telegram/Email APIs
+- **Features**: Timezone support, recurring tasks, multiple notification channels
+
+### 📈 GitHub Stats
+![Ezekiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnage999-max&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carnage999-max&layout=compact&theme=dark&hide_border=true)
+
+### 🌍 Let's Connect
+- 💼 **LinkedIn**: [linkedin.com/in/ezekiel-okebule](https://linkedin.com/in/ezekiel-okebule)
+- 🌐 **Portfolio**: [ezekiel-okebule.vercel.app](https://ezekiel-okebule.vercel.app)
+- 📧 **Email**: jamesezekiel039@gmail.com
+- 📍 **Location**: Lagos, Nigeria (Open to remote work globally)
+
+### 💡 Fun Facts
+- 🎯 I've integrated 4+ different payment gateways and understand the complexities of African payment infrastructure
+- 🏆 Top 10 graduating intern at Zuri Team with team leadership recognition  
+- 🌱 Always learning: Currently diving deep into system design and microservices architecture
+- 💪 I believe in building not just functional code, but systems that create real business value
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Carnage999-max&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Hi there 👋, Let's build something together😊
-
-### I am here [ezekiel-okebule↗️](https://ezekiel-okebule.vercel.app)
-
-<!--
-**carnage999-max/Carnage999-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [carnage999-max](https://github.com/carnage999-max) | *Building the future, one API at a time* 🚀
