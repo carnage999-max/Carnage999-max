@@ -1,11 +1,11 @@
-# Hi there, I'm Ezekiel Okebule 👋
+Hi there, I'm Ezekiel Okebule 👋
 
-## 🚀 Backend Engineer | Payment Systems Expert | Python/Django Specialist
+## 🚀 Backend Engineer | Python/Django Specialist
 
 Building scalable APIs and payment solutions that power businesses across Africa and beyond.
 
 ### 🔥 What I Do
-- **Payment Integration** - Built systems processing $100K+ in transactions with 99.9% reliability
+- **Payment Integration**
 - **API Architecture** - Designed RESTful APIs serving 2,000+ users with <200ms response times  
 - **Real-time Systems** - Implemented WebSocket connections supporting 1,000+ concurrent users
 - **Database Optimization** - Improved query performance by 35+ through strategic optimization
@@ -64,12 +64,4 @@ Comprehensive task scheduling system with multi-channel notifications
 - 🌐 **Portfolio**: [ezekiel-okebule.vercel.app](https://ezekiel-okebule.vercel.app)
 - 📧 **Email**: jamesezekiel039@gmail.com
 - 📍 **Location**: Lagos, Nigeria (Open to remote work globally)
-
-### 💡 Fun Facts
-- 🎯 I've integrated 4+ different payment gateways and understand the complexities of African payment infrastructure
-- 🏆 Top 10 graduating intern at Zuri Team with team leadership recognition  
-- 🌱 Always learning: Currently diving deep into system design and microservices architecture
-- 💪 I believe in building not just functional code, but systems that create real business value
-
----
-⭐️ From [carnage999-max](https://github.com/carnage999-max) | *Building the future, one API at a time* 🚀
+ [carnage999-max](https://github.com/carnage999-max) | *Building the future, one API at a time* 🚀
