@@ -49,8 +49,7 @@ Open to remote roles globally.
 
 ## GitHub Stats
 
-![Ezekiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carnage999-max&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carnage999-max&layout=compact&theme=dark&hide_border=true)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carnage999-max&theme=github-compact)](https://github.com/carnage999-max/github-readme-activity-graph)
 
 ---
 
