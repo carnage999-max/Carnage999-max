@@ -1,6 +1,8 @@
-# Ezekiel Okebule
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/f1352049-9342-4a39-8ff3-f9c228c4274e" />
 
-Full-stack engineer based in Lagos, Nigeria. I build and ship web and mobile applications end-to-end — from backend APIs and cloud infrastructure to React frontends and React Native mobile apps live on the App Store and Play Store.
+# About me
+
+Hello World, I'm Ezekiel, a Full-stack engineer based in Lagos, Nigeria. I build and ship web and mobile applications end-to-end — from backend APIs and cloud infrastructure to React frontends and React Native mobile apps live on the App Store and Play Store.
 
 I work across Django, Next.js, React Native, PostgreSQL, and AWS. Currently working remotely for clients in the US and Africa.
 
